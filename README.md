@@ -2,8 +2,10 @@
 This project helps to check the working of api made by others or yourself by making get/post requests.
 
 # Live preview of Webpage
-
-![](public/images/Preview.gif)
+GET
+![](images/GET.jpg)
+POST
+![](images/GET.jpg)
 
 ## Available Scripts
 
